@@ -1,3 +1,3 @@
 fn main() {
-    println!("a small stepg");
+    println!("a small step");
 }
